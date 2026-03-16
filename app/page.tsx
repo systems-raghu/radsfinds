@@ -98,11 +98,11 @@ export default function Home() {
             className="group cursor-pointer"
           >
             <div className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-5 bg-gray-200 shadow-sm transition-all duration-500 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:shadow-[0_20px_40px_rgba(255,77,141,0.25)] group-hover:-translate-y-4">
-              <Image 
-                src="https://picsum.photos/seed/desksetup/800/600" 
-                alt="Desk Setup" 
-                fill 
-                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:rotate-2 group-hover:blur-[2px] group-hover:brightness-90" 
+              <Image
+                src="https://i.pinimg.com/originals/aa/29/37/aa29372c55e1162e918a663aaab703d3.jpg"
+                alt="Desk Setup"
+                fill
+                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:rotate-2 group-hover:blur-[2px] group-hover:brightness-90"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-10" />
               
@@ -129,11 +129,11 @@ export default function Home() {
             className="group cursor-pointer"
           >
             <div className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-5 bg-gray-200 shadow-sm transition-all duration-500 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:shadow-[0_20px_40px_rgba(255,157,77,0.25)] group-hover:-translate-y-4">
-              <Image 
-                src="https://picsum.photos/seed/phoneacc/800/600" 
-                alt="Phone Accessories" 
-                fill 
-                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:-rotate-2 group-hover:blur-[2px] group-hover:brightness-90" 
+              <Image
+                src="https://i.pinimg.com/originals/68/ee/31/68ee31a5fb78f7b5d12c54ed27096aa4.jpg"
+                alt="Phone Accessories"
+                fill
+                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:-rotate-2 group-hover:blur-[2px] group-hover:brightness-90"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-10" />
               
@@ -159,11 +159,11 @@ export default function Home() {
             className="group cursor-pointer"
           >
             <div className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-5 bg-gray-200 shadow-sm transition-all duration-500 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:shadow-[0_20px_40px_rgba(255,214,77,0.25)] group-hover:-translate-y-4">
-              <Image 
-                src="https://picsum.photos/seed/smarthome/800/600" 
-                alt="Smart Home" 
-                fill 
-                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:rotate-2 group-hover:blur-[2px] group-hover:brightness-90" 
+              <Image
+                src="https://i.pinimg.com/originals/52/a9/5b/52a95bf9735225a2efe46a4573443f38.jpg"
+                alt="Smart Home"
+                fill
+                className="object-cover transition-all duration-700 ease-[cubic-bezier(0.25,1,0.5,1)] group-hover:scale-110 group-hover:rotate-2 group-hover:blur-[2px] group-hover:brightness-90"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-10" />
               
